@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\assets",
+    "\\app\\assets\\config",
+    "\\app\\assets\\stylesheets",
+    "\\app\\controllers",
+    "\\app\\models",
+    "\\config"
+  ],
+  "SelectedNode": "\\app\\assets\\stylesheets\\header.scss",
+  "PreviewInSolutionExplorer": false
+}
